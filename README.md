@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/netanelbollag-simple-psql-mcp-badge.png)](https://mseep.ai/app/netanelbollag-simple-psql-mcp)
+
 # Simple PostgreSQL MCP Server
 
 This is a template project for those looking to build their own MCP servers. I designed it to be dead simple to understand and adapt - the code is straightforward with MCP docs attached so you can quickly get up to speed.
